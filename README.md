@@ -1,5 +1,5 @@
 # bril-install
-A script to install Bril(https://github.com/sampsyo/bril) in a virtual environment.
+A script to install [Bril](https://github.com/sampsyo/bril) in a virtual environment.
 
 ```
 Usage: install-bril.sh (<directory-to-install-bril>|-h|--help)
